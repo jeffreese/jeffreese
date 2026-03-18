@@ -10,7 +10,7 @@ I build AI-powered tools, systematize the workflows around them, and teach other
 
 - **[Localhost](https://github.com/jeffreese/localhost)** — A local dashboard that discovers and manages every dev server on your machine. Zero config — just open a tab and see what's running.
 
-- **Forge** *(private)* — An AI meta-generator that plans entire applications through the full SDLC and exports AI-enabled development environments. It's how I build everything else.
+- **[Forge](https://jeffreese.github.io/forge-overview/)** *(private)* — An AI meta-generator that plans entire applications through the full SDLC and exports AI-enabled development environments. It's how I build everything else.
 
 **Background:**
 
